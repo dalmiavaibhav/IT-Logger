@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "1122 wireless up",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-08-22T10:52:07.719Z"
+    },
+    {
+      "message": "11 system broke",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-08-22T10:51:42.605Z",
+      "id": 2
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
